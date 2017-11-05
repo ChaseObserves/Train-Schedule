@@ -1,0 +1,9 @@
+.jumbotron {
+	background: url(https://s-media-cache-ak0.pinimg.com/originals/95/19/f2/9519f26c86fc9a8c670705596896a0e7.jpg) no-repeat center center;
+	color: white;
+	text-align: center;
+}
+
+.shadow-text {
+  text-shadow:1px 1px 10px #000, 1px 1px 10px #000;
+}
